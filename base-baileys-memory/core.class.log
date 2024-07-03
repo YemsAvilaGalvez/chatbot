@@ -1,0 +1,84 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931055100@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB04CB9DF1DBB2E93494F',
+    participant: undefined
+  },
+  messageTimestamp: 1719997162,
+  pushName: 'StartCode',
+  broadcast: false,
+  message: Message {
+    conversation: 'servicios',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'servicios',
+  from: '51931055100'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_61058c99-5f5c-40a2-9d4d-ed2e442ffe37',
+  keyword: 'key_8c7ddeb8-c423-44d3-977e-82a2cff0b71f',
+  answer: 'Nuestros servicios son:\r\n' +
+    '\r\n' +
+    'Opción 1 - Servicios\r\n' +
+    'Opción 2 - Proyectos\r\n' +
+    'Opción 2 - consulta\r\n' +
+    '\r\n' +
+    'Opción 0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b4492f0eafcd06614a0befb2ab163be6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931055100@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01E9C85E922028F68E5',
+    participant: undefined
+  },
+  messageTimestamp: 1719997174,
+  pushName: 'StartCode',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '51931055100'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931055100@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03D04E61B2B3027516E',
+    participant: undefined
+  },
+  messageTimestamp: 1719997182,
+  pushName: 'StartCode',
+  broadcast: false,
+  message: Message {
+    conversation: 'como estas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como estas',
+  from: '51931055100'
+}
